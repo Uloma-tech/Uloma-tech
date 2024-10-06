@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uloma-tech
 - 👀 I’m interested in helping organisations thrive using data to help them know what works best for them as an organisation
 - 🌱 I’m currently learning Data Analysis with The Incubator Hub
-- 💞️ I’m looking to collaborate on working on projects to build my portfolio and become more efficient in using the tools for data analysis
+- 💞️ I’m looking to collaborate on projects to build my portfolio and proficiency in the use of the tools for data analysis
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
