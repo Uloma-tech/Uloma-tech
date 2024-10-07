@@ -2,8 +2,11 @@
 - 👀 I’m interested in helping organisations thrive using data to help them know what works best for them as an organisation
 - 🌱 I’m currently learning Data Analysis with The Incubator Hub
 - 💞️ I’m looking to collaborate on projects to build my portfolio and proficiency in the use of the tools for data analysis
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 Contact:
+- Email: ulomaonyeonoro@gmail.com
+- LinkedIn:
+
+  
 - ⚡ Fun fact: ...
 
 <!---
